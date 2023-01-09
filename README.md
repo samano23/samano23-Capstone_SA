@@ -1,27 +1,25 @@
-SpaceX-Falcon-9-first-stage-Landing-Prediction
+Prediction for SpaceX Falcon 9 First Stage Landing
 
 Description:
 
-In this case study, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. In this lab, you will collect and make sure the data is in the correct format from an API. The following is an example of a successful and launch.
+In this case study, we will forecast whether the Falcon 9 first stage will successfully land. SpaceX advertises Falcon 9 rocket launches on its website for 62 million dollars; other providers charge up to 165 million dollars each; much of the savings is due to SpaceX's ability to reuse the first stage. As a result, if we can predict whether the first stage will land, we can estimate the cost of a launch. This data can be used if another company wants to compete with SpaceX for a rocket launch. In this lab, you will collect data from an API and ensure that it is in the correct format. The example below is of a successful
 
-
-
-Most unsuccessful landings are planned. Space X performs a controlled landing in the oceans.
+The majority of failed landings are planned. Space X makes a safe landing in the oceans.
 
 Methodology:
 
-Collection data from API and web page
+Data collection from API and web page
 
-Data Wrangling: transforming and mapping data
+Data Wrangling is the process of transforming and mapping data.
 
-Exploratory data analysis (EDA) by using SQL
+SQL-based exploratory data analysis (EDA)
 
-Exploratory data analysis (EDA) by visualization
+Visualization of exploratory data analysis (EDA)
 
-Interactive visual analytics and create dashboards
+Create dashboards and interactive visual analytics
 
-Predictive analysis by machine learning
+Machine learning predictive analysis
 
-Final report (PPT and PDF)
+The final report (PPT and PDF)
 
-END
+
